@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_container_vertical">12dp</dimen>
+    <dimen name="margin_container_horizontal">12dp</dimen>
+    <dimen name="horizontal_page_margin">12dp</dimen>
+    <dimen name="vertical_page_margin">12dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VisonFaceRecognitionExample</string>
+    <string name="process_face">Process Face</string>
+    <string name="text_load_img_camera">Take Picture</string>
+    <string name="load_image">Load Image</string>
+    <string name="camera_unavailable">Camera Not Available</string>
+</resources>
